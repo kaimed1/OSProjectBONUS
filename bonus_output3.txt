@@ -1,0 +1,31 @@
+[PID 200316] [Index 9] [Level 4, Position 2] computed sum: 189
+[PID 200320] [Index 8] [Level 4, Position 1] computed sum: 182
+[PID 200315] [Index 7] [Level 4, Position 0] computed sum: 196
+[PID 200317] [Index 11] [Level 4, Position 4] computed sum: 257
+[PID 200318] [Index 10] [Level 4, Position 3] computed sum: 240
+[PID 200319] [Index 12] [Level 4, Position 5] computed sum: 96
+[PID 200311] [Index 3] [Level 3, Position 0] received: 196, 182 -> sum: 378
+[PID 200321] [Index 13] [Level 4, Position 6] computed sum: 19
+[PID 200313] [Index 5] [Level 3, Position 2] received: 257, 96 -> sum: 353
+[PID 200322] [Index 14] [Level 4, Position 7] computed sum: 0
+[PID 200312] [Index 4] [Level 3, Position 1] received: 189, 240 -> sum: 429
+[PID 200314] [Index 6] [Level 3, Position 3] received: 19, 0 -> sum: 19
+[PID 200309] [Index 1] [Level 2, Position 0] received: 378, 429 -> sum: 807
+[PID 200310] [Index 2] [Level 2, Position 1] received: 353, 19 -> sum: 372
+[PID 200308] [Index 0] [Level 1, Position 0] recieved: 807, 372 -> Final sum: 1179
+
+[PID 200319] [Index 12] terminated.
+[PID 200322] [Index 14] terminated.
+[PID 200317] [Index 11] terminated.
+[PID 200321] [Index 13] terminated.
+[PID 200320] [Index 8] terminated.
+[PID 200316] [Index 9] terminated.
+[PID 200318] [Index 10] terminated.
+[PID 200315] [Index 7] terminated.
+[PID 200314] [Index 6] terminated.
+[PID 200312] [Index 4] terminated.
+[PID 200313] [Index 5] terminated.
+[PID 200311] [Index 3] terminated.
+[PID 200310] [Index 2] terminated.
+[PID 200309] [Index 1] terminated.
+[PID 200308] [Index 0] terminated.

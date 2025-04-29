@@ -1,0 +1,15 @@
+[PID 140966] [Index 5] [Level 3, Position 2] computed sum: 83
+[PID 140967] [Index 6] [Level 3, Position 3] computed sum: 0
+[PID 140965] [Index 3] [Level 3, Position 0] computed sum: 80
+[PID 140968] [Index 4] [Level 3, Position 1] computed sum: 93
+[PID 140964] [Index 2] [Level 2, Position 1] received 83, 0 -> sum: 83
+[PID 140963] [Index 1] [Level 2, Position 0] received 80, 93 -> sum: 173
+[PID 140962] [Index 0] [Level 1, Position 0] recieved 173, 83 -> Final sum: 256
+
+[PID 140967] [Index 6] terminated.
+[PID 140968] [Index 4] terminated.
+[PID 140966] [Index 5] terminated.
+[PID 140965] [Index 3] terminated.
+[PID 140964] [Index 2] terminated.
+[PID 140963] [Index 1] terminated.
+[PID 140962] [Index 0] terminated.

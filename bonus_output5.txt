@@ -1,0 +1,127 @@
+[PID 200422] [Index 33] [Level 6, Position 2] computed sum: 182
+[PID 200456] [Index 42] [Level 6, Position 11] computed sum: 206
+[PID 200420] [Index 55] [Level 6, Position 24] computed sum: 0
+[PID 200427] [Index 51] [Level 6, Position 20] computed sum: 172
+[PID 200434] [Index 34] [Level 6, Position 3] computed sum: 67
+[PID 200431] [Index 57] [Level 6, Position 26] computed sum: 0
+[PID 200433] [Index 53] [Level 6, Position 22] computed sum: 174
+[PID 200429] [Index 59] [Level 6, Position 28] computed sum: 0
+[PID 200436] [Index 48] [Level 6, Position 17] computed sum: 155
+[PID 200441] [Index 49] [Level 6, Position 18] computed sum: 219
+[PID 200419] [Index 32] [Level 6, Position 1] computed sum: 189
+[PID 200412] [Index 31] [Level 6, Position 0] computed sum: 190
+[PID 200428] [Index 47] [Level 6, Position 16] computed sum: 174
+[PID 200438] [Index 43] [Level 6, Position 12] computed sum: 185
+[PID 200406] [Index 15] [Level 5, Position 0] received: 190, 189 -> sum: 379
+[PID 200446] [Index 35] [Level 6, Position 4] computed sum: 74
+[PID 200430] [Index 56] [Level 6, Position 25] computed sum: 0
+[PID 200435] [Index 39] [Level 6, Position 8] computed sum: 160
+[PID 200445] [Index 58] [Level 6, Position 27] computed sum: 0
+[PID 200448] [Index 44] [Level 6, Position 13] computed sum: 134
+[PID 200442] [Index 45] [Level 6, Position 14] computed sum: 96
+[PID 200417] [Index 28] [Level 5, Position 13] received: 0, 0 -> sum: 0
+[PID 200449] [Index 50] [Level 6, Position 19] computed sum: 140
+[PID 200452] [Index 37] [Level 6, Position 6] computed sum: 208
+[PID 200454] [Index 41] [Level 6, Position 10] computed sum: 105
+[PID 200451] [Index 36] [Level 6, Position 5] computed sum: 232
+[PID 200437] [Index 52] [Level 6, Position 21] computed sum: 215
+[PID 200443] [Index 20] [Level 5, Position 5] received: 105, 206 -> sum: 311
+[PID 200439] [Index 60] [Level 6, Position 29] computed sum: 0
+[PID 200450] [Index 62] [Level 6, Position 31] computed sum: 0
+[PID 200455] [Index 38] [Level 6, Position 7] computed sum: 146
+[PID 200447] [Index 40] [Level 6, Position 9] computed sum: 153
+[PID 200444] [Index 54] [Level 6, Position 23] computed sum: 0
+[PID 200440] [Index 61] [Level 6, Position 30] computed sum: 0
+[PID 200453] [Index 46] [Level 6, Position 15] computed sum: 152
+[PID 200409] [Index 16] [Level 5, Position 1] received: 182, 67 -> sum: 249
+[PID 200424] [Index 30] [Level 5, Position 15] received: 0, 0 -> sum: 0
+[PID 200414] [Index 23] [Level 5, Position 8] received: 174, 155 -> sum: 329
+[PID 200425] [Index 22] [Level 5, Position 7] received: 96, 152 -> sum: 248
+[PID 200411] [Index 27] [Level 5, Position 12] received: 0, 0 -> sum: 0
+[PID 200415] [Index 21] [Level 5, Position 6] received: 185, 134 -> sum: 319
+[PID 200426] [Index 24] [Level 5, Position 9] received: 219, 140 -> sum: 359
+[PID 200413] [Index 17] [Level 5, Position 2] received: 74, 232 -> sum: 306
+[PID 200416] [Index 25] [Level 5, Position 10] received: 172, 215 -> sum: 387
+[PID 200418] [Index 29] [Level 5, Position 14] received: 0, 0 -> sum: 0
+[PID 200432] [Index 18] [Level 5, Position 3] received: 208, 146 -> sum: 354
+[PID 200421] [Index 26] [Level 5, Position 11] received: 174, 0 -> sum: 174
+[PID 200423] [Index 19] [Level 5, Position 4] received: 160, 153 -> sum: 313
+[PID 200401] [Index 7] [Level 4, Position 0] received: 379, 249 -> sum: 628
+[PID 200405] [Index 13] [Level 4, Position 6] received: 0, 0 -> sum: 0
+[PID 200407] [Index 10] [Level 4, Position 3] received: 319, 248 -> sum: 567
+[PID 200403] [Index 11] [Level 4, Position 4] received: 329, 359 -> sum: 688
+[PID 200408] [Index 14] [Level 4, Position 7] received: 0, 0 -> sum: 0
+[PID 200404] [Index 8] [Level 4, Position 1] received: 306, 354 -> sum: 660
+[PID 200410] [Index 12] [Level 4, Position 5] received: 387, 174 -> sum: 561
+[PID 200402] [Index 9] [Level 4, Position 2] received: 313, 311 -> sum: 624
+[PID 200400] [Index 6] [Level 3, Position 3] received: 0, 0 -> sum: 0
+[PID 200398] [Index 5] [Level 3, Position 2] received: 688, 561 -> sum: 1249
+[PID 200397] [Index 3] [Level 3, Position 0] received: 628, 660 -> sum: 1288
+[PID 200399] [Index 4] [Level 3, Position 1] received: 624, 567 -> sum: 1191
+[PID 200396] [Index 2] [Level 2, Position 1] received: 1249, 0 -> sum: 1249
+[PID 200395] [Index 1] [Level 2, Position 0] received: 1288, 1191 -> sum: 2479
+[PID 200394] [Index 0] [Level 1, Position 0] recieved: 2479, 1249 -> Final sum: 3728
+
+[PID 200450] [Index 62] terminated.
+[PID 200440] [Index 61] terminated.
+[PID 200445] [Index 58] terminated.
+[PID 200420] [Index 55] terminated.
+[PID 200431] [Index 57] terminated.
+[PID 200439] [Index 60] terminated.
+[PID 200429] [Index 59] terminated.
+[PID 200444] [Index 54] terminated.
+[PID 200433] [Index 53] terminated.
+[PID 200430] [Index 56] terminated.
+[PID 200437] [Index 52] terminated.
+[PID 200427] [Index 51] terminated.
+[PID 200428] [Index 47] terminated.
+[PID 200453] [Index 46] terminated.
+[PID 200441] [Index 49] terminated.
+[PID 200436] [Index 48] terminated.
+[PID 200449] [Index 50] terminated.
+[PID 200442] [Index 45] terminated.
+[PID 200456] [Index 42] terminated.
+[PID 200454] [Index 41] terminated.
+[PID 200448] [Index 44] terminated.
+[PID 200438] [Index 43] terminated.
+[PID 200447] [Index 40] terminated.
+[PID 200435] [Index 39] terminated.
+[PID 200455] [Index 38] terminated.
+[PID 200452] [Index 37] terminated.
+[PID 200451] [Index 36] terminated.
+[PID 200446] [Index 35] terminated.
+[PID 200434] [Index 34] terminated.
+[PID 200422] [Index 33] terminated.
+[PID 200419] [Index 32] terminated.
+[PID 200424] [Index 30] terminated.
+[PID 200418] [Index 29] terminated.
+[PID 200412] [Index 31] terminated.
+[PID 200417] [Index 28] terminated.
+[PID 200411] [Index 27] terminated.
+[PID 200416] [Index 25] terminated.
+[PID 200426] [Index 24] terminated.
+[PID 200421] [Index 26] terminated.
+[PID 200414] [Index 23] terminated.
+[PID 200425] [Index 22] terminated.
+[PID 200443] [Index 20] terminated.
+[PID 200415] [Index 21] terminated.
+[PID 200423] [Index 19] terminated.
+[PID 200409] [Index 16] terminated.
+[PID 200406] [Index 15] terminated.
+[PID 200413] [Index 17] terminated.
+[PID 200432] [Index 18] terminated.
+[PID 200408] [Index 14] terminated.
+[PID 200410] [Index 12] terminated.
+[PID 200403] [Index 11] terminated.
+[PID 200405] [Index 13] terminated.
+[PID 200407] [Index 10] terminated.
+[PID 200402] [Index 9] terminated.
+[PID 200401] [Index 7] terminated.
+[PID 200404] [Index 8] terminated.
+[PID 200400] [Index 6] terminated.
+[PID 200399] [Index 4] terminated.
+[PID 200398] [Index 5] terminated.
+[PID 200397] [Index 3] terminated.
+[PID 200395] [Index 1] terminated.
+[PID 200396] [Index 2] terminated.
+[PID 200394] [Index 0] terminated.

@@ -1,0 +1,63 @@
+[PID 201077] [Index 24] [Level 5, Position 9] computed sum: 40
+[PID 201085] [Index 18] [Level 5, Position 3] computed sum: 166
+[PID 201074] [Index 23] [Level 5, Position 8] computed sum: 103
+[PID 201080] [Index 17] [Level 5, Position 2] computed sum: 58
+[PID 201081] [Index 26] [Level 5, Position 11] computed sum: 160
+[PID 201082] [Index 15] [Level 5, Position 0] computed sum: 153
+[PID 201083] [Index 27] [Level 5, Position 12] computed sum: 84
+[PID 201088] [Index 16] [Level 5, Position 1] computed sum: 55
+[PID 201086] [Index 29] [Level 5, Position 14] computed sum: 155
+[PID 201092] [Index 20] [Level 5, Position 5] computed sum: 142
+[PID 201091] [Index 30] [Level 5, Position 15] computed sum: 74
+[PID 201089] [Index 19] [Level 5, Position 4] computed sum: 107
+[PID 201079] [Index 14] [Level 4, Position 7] received: 155, 74 -> sum: 229
+[PID 201090] [Index 28] [Level 5, Position 13] computed sum: 111
+[PID 201078] [Index 25] [Level 5, Position 10] computed sum: 61
+[PID 201093] [Index 21] [Level 5, Position 6] computed sum: 63
+[PID 201094] [Index 22] [Level 5, Position 7] computed sum: 125
+[PID 201071] [Index 11] [Level 4, Position 4] received: 103, 40 -> sum: 143
+[PID 201076] [Index 8] [Level 4, Position 1] received: 58, 166 -> sum: 224
+[PID 201073] [Index 7] [Level 4, Position 0] received: 153, 55 -> sum: 208
+[PID 201084] [Index 9] [Level 4, Position 2] received: 107, 142 -> sum: 249
+[PID 201075] [Index 13] [Level 4, Position 6] received: 84, 111 -> sum: 195
+[PID 201072] [Index 12] [Level 4, Position 5] received: 61, 160 -> sum: 221
+[PID 201087] [Index 10] [Level 4, Position 3] received: 63, 125 -> sum: 188
+[PID 201067] [Index 3] [Level 3, Position 0] received: 208, 224 -> sum: 432
+[PID 201068] [Index 5] [Level 3, Position 2] received: 143, 221 -> sum: 364
+[PID 201069] [Index 6] [Level 3, Position 3] received: 195, 229 -> sum: 424
+[PID 201070] [Index 4] [Level 3, Position 1] received: 249, 188 -> sum: 437
+[PID 201066] [Index 2] [Level 2, Position 1] received: 364, 424 -> sum: 788
+[PID 201065] [Index 1] [Level 2, Position 0] received: 432, 437 -> sum: 869
+[PID 201064] [Index 0] [Level 1, Position 0] recieved: 869, 788 -> Final sum: 1657
+
+[PID 201083] [Index 27] terminated.
+[PID 201085] [Index 18] terminated.
+[PID 201090] [Index 28] terminated.
+[PID 201086] [Index 29] terminated.
+[PID 201080] [Index 17] terminated.
+[PID 201081] [Index 26] terminated.
+[PID 201078] [Index 25] terminated.
+[PID 201091] [Index 30] terminated.
+[PID 201093] [Index 21] terminated.
+[PID 201077] [Index 24] terminated.
+[PID 201074] [Index 23] terminated.
+[PID 201094] [Index 22] terminated.
+[PID 201079] [Index 14] terminated.
+[PID 201075] [Index 13] terminated.
+[PID 201089] [Index 19] terminated.
+[PID 201092] [Index 20] terminated.
+[PID 201088] [Index 16] terminated.
+[PID 201082] [Index 15] terminated.
+[PID 201072] [Index 12] terminated.
+[PID 201084] [Index 9] terminated.
+[PID 201071] [Index 11] terminated.
+[PID 201087] [Index 10] terminated.
+[PID 201076] [Index 8] terminated.
+[PID 201073] [Index 7] terminated.
+[PID 201068] [Index 5] terminated.
+[PID 201069] [Index 6] terminated.
+[PID 201067] [Index 3] terminated.
+[PID 201070] [Index 4] terminated.
+[PID 201066] [Index 2] terminated.
+[PID 201065] [Index 1] terminated.
+[PID 201064] [Index 0] terminated.
